@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+psycopg2-binary
+sqlalchemy
+numpy
+pandas
+python-dotenv
+requests
+torch
+transformers
